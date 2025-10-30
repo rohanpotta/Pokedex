@@ -1,4 +1,4 @@
-# Pokedex iOS App
+# Pokedex
 
 A simple, SwiftUI-based Pokédex app that fetches Pokémon data from the [PokéAPI](https://pokeapi.co/) and displays it in an interactive grid.
 
